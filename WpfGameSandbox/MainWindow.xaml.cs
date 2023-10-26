@@ -251,7 +251,6 @@ namespace WpfGameSandbox
                 StartBtn.Visibility = Visibility.Visible;
                 Sword.Visibility = Visibility.Collapsed;
                 Parcel.Visibility = Visibility.Collapsed;
-            Timer.Start();
         }
         
         private void Starting()
